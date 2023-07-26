@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/HananPilakkadan/blogy-blog-app.git/static/css/main.67148d59.css",
-    "main.js": "/HananPilakkadan/blogy-blog-app.git/static/js/main.4d68862c.js",
-    "index.html": "/HananPilakkadan/blogy-blog-app.git/index.html",
-    "static/media/angle.svg": "/HananPilakkadan/blogy-blog-app.git/static/media/angle.19f562f61527ad1d7e272590afa57756.svg",
-    "main.67148d59.css.map": "/HananPilakkadan/blogy-blog-app.git/static/css/main.67148d59.css.map",
-    "main.4d68862c.js.map": "/HananPilakkadan/blogy-blog-app.git/static/js/main.4d68862c.js.map"
+    "main.css": "/blogy-blog-app/static/css/main.67148d59.css",
+    "main.js": "/blogy-blog-app/static/js/main.59f3474c.js",
+    "index.html": "/blogy-blog-app/index.html",
+    "static/media/angle.svg": "/blogy-blog-app/static/media/angle.19f562f61527ad1d7e272590afa57756.svg",
+    "main.67148d59.css.map": "/blogy-blog-app/static/css/main.67148d59.css.map",
+    "main.59f3474c.js.map": "/blogy-blog-app/static/js/main.59f3474c.js.map"
   },
   "entrypoints": [
     "static/css/main.67148d59.css",
-    "static/js/main.4d68862c.js"
+    "static/js/main.59f3474c.js"
   ]
 }
