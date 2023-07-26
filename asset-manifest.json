@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HananPilakkadan/blogy-blog-app.git/static/css/main.2970b6dd.css",
+    "main.js": "/HananPilakkadan/blogy-blog-app.git/static/js/main.3c27ebc1.js",
+    "index.html": "/HananPilakkadan/blogy-blog-app.git/index.html",
+    "main.2970b6dd.css.map": "/HananPilakkadan/blogy-blog-app.git/static/css/main.2970b6dd.css.map",
+    "main.3c27ebc1.js.map": "/HananPilakkadan/blogy-blog-app.git/static/js/main.3c27ebc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2970b6dd.css",
+    "static/js/main.3c27ebc1.js"
+  ]
+}
