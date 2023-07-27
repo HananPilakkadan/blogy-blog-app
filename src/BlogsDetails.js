@@ -23,7 +23,7 @@ const BlogDetails = () => {
         title: "Blog deleted successfully!",
         icon: "success",
       });
-      navigate("/blogy-blog-app/");
+      navigate("/blogy-blog-app");
     });
   };
 

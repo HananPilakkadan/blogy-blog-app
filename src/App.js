@@ -8,14 +8,14 @@ import ScrollToTop from "./ScrollToTop";
 
 function App() {
   return (
-    <Router basename="/blogy-blog-app">
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Navbar />
         <div className="content">
           <ScrollToTop />
           <Routes>
             <Route path="*" element={<NotFound />}></Route>
-            <Route path="/blogy-blog-app/" element={<Home />}></Route>
+            <Route path="/blogy-blog-app" element={<Home />}></Route>
             <Route path="/create" element={<Create />}></Route>
             <Route path="/blog/:id" element={<BlogDetails />}></Route>
           </Routes>
