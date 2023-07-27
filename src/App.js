@@ -14,6 +14,7 @@ function App() {
         <div className="content">
           <ScrollToTop />
           <Routes>
+            <Route path="*" element={<NotFound />}></Route>
             <Route path="/" element={<Home />}></Route>
             <Route path="/create" element={<Create />}></Route>
             <Route path="/blog/:id" element={<BlogDetails />}></Route>
