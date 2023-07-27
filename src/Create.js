@@ -38,7 +38,7 @@ const Create = () => {
           text: "Thank You",
           icon: "success",
         });
-        navigate("/blogy-blog-app");
+        navigate("/");
       })
       .catch(() => {
         Swal.fire({
