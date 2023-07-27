@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/blogy-blog-app/static/css/main.67148d59.css",
-    "main.js": "/blogy-blog-app/static/js/main.fbc3e942.js",
+    "main.js": "/blogy-blog-app/static/js/main.471a3a2d.js",
     "index.html": "/blogy-blog-app/index.html",
     "static/media/angle.svg": "/blogy-blog-app/static/media/angle.19f562f61527ad1d7e272590afa57756.svg",
     "main.67148d59.css.map": "/blogy-blog-app/static/css/main.67148d59.css.map",
-    "main.fbc3e942.js.map": "/blogy-blog-app/static/js/main.fbc3e942.js.map"
+    "main.471a3a2d.js.map": "/blogy-blog-app/static/js/main.471a3a2d.js.map"
   },
   "entrypoints": [
     "static/css/main.67148d59.css",
-    "static/js/main.fbc3e942.js"
+    "static/js/main.471a3a2d.js"
   ]
 }
