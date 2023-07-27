@@ -1,0 +1,39 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Sed tempor id nisl nec ultrices. Integer id lorem at nisl varius elementum. Donec vitae ornare ligula, in maximus massa. Nullam eget sodales urna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin sed nunc in mi consectetur tristique ut ac neque. Suspendisse vulputate justo quis odio placerat, ut consequat neque porta. Phasellus lacinia auctor lacus quis varius. Proin in semper erat, ultrices accumsan turpis. Quisque congue orci arcu, commodo ultrices urna tristique et. Sed est neque, faucibus vitae finibus non, scelerisque sed diam. Donec pulvinar mauris ut dui rhoncus, non pharetra odio pretium. Etiam nec faucibus dui. Aenean odio justo, porta et viverra eu, dignissim eget justo. Nulla vitae nibh sollicitudin, venenatis est sit amet, semper lectus.Nam ligula sapien, ornare at lorem ac, mollis egestas nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In tincidunt mauris est, id venenatis ante convallis non. Mauris metus dui, tempus at tellus eget, imperdiet cursus magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus sit amet lorem lectus. Aenean auctor nisl sit amet dignissim accumsan. Quisque mattis, sem nec sagittis dapibus, enim est eleifend felis, eget elementum erat turpis in metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eget odio id nulla posuere efficitur. In eros justo, commodo quis fringilla ut, imperdiet et tellus.",
+      "author": "mario",
+      "currentDate": "26 July 2023",
+      "id": 1
+    },
+    {
+      "title": "Good Days!",
+      "body": "Aenean in est vitae velit consectetur aliquet ac ac nunc. Vestibulum nec ex arcu. In condimentum tellus mauris, in sollicitudin felis pulvinar ut. Donec risus est, sodales imperdiet turpis non, convallis aliquam leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In rutrum sed nisl a ornare. Nam eu sagittis felis. Proin et enim fermentum mi lobortis sagittis eget pellentesque lectus. Suspendisse commodo, augue sed auctor tincidunt, tellus arcu iaculis sem, non efficitur lectus nibh ut nulla. Cras eget dictum nunc. Proin turpis sem, interdum id fringilla eu, sodales sit amet leo. Ut ex sem, commodo a dui nec, ornare vulputate mi.Nam ligula sapien, ornare at lorem ac, mollis egestas nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In tincidunt mauris est, id venenatis ante convallis non. Mauris metus dui, tempus at tellus eget, imperdiet cursus magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus sit amet lorem lectus. Aenean auctor nisl sit amet dignissim accumsan. Quisque mattis, sem nec sagittis dapibus, enim est eleifend felis, eget elementum erat turpis in metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eget odio id nulla posuere efficitur. In eros justo, commodo quis fringilla ut, imperdiet et tellus.",
+      "author": "yoshi",
+      "currentDate": "26 July 2023",
+      "id": 2
+    },
+    {
+      "title": "Hey Mansoon!",
+      "body": "Aenean in est vitae velit consectetur aliquet ac ac nunc. Vestibulum nec ex arcu. In condimentum tellus mauris, in sollicitudin felis pulvinar ut. Donec risus est, sodales imperdiet turpis non, convallis aliquam leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In rutrum sed nisl a ornare. Nam eu sagittis felis. Proin et enim fermentum mi lobortis sagittis eget pellentesque lectus. Suspendisse commodo, augue sed auctor tincidunt, tellus arcu iaculis sem, non efficitur lectus nibh ut nulla. Cras eget dictum nunc. Proin turpis sem, interdum id fringilla eu, sodales sit amet leo. Ut ex sem, commodo a dui nec, ornare vulputate mi.Nam ligula sapien, ornare at lorem ac, mollis egestas nulla. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; In tincidunt mauris est, id venenatis ante convallis non. Mauris metus dui, tempus at tellus eget, imperdiet cursus magna. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus sit amet lorem lectus. Aenean auctor nisl sit amet dignissim accumsan. Quisque mattis, sem nec sagittis dapibus, enim est eleifend felis, eget elementum erat turpis in metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce eget odio id nulla posuere efficitur. In eros justo, commodo quis fringilla ut, imperdiet et tellus.",
+      "author": "yoshi",
+      "currentDate": "26 July 2023",
+      "id": 3
+    },
+    {
+      "title": "The cars",
+      "author": "john",
+      "body": "A car is a means of transport used for traveling from one place to another. This is a four-wheeler used by individuals or family members. We all use cars in our daily lives to go from one place to another for work. A car is a beautiful vehicle that has comfortable seats, AC, and windows. It is basically used to reduce travel distance and time. Due to increased automobile industries, we see different types of cars ranging from simple to the most luxurious ones. Every individual wishes to buy or purchase a car which makes their journey a comfortable and enjoyable experience. ",
+      "currentDate": "26 July 2023",
+      "id": 4
+    },
+    {
+      "title": "Cars Universe",
+      "author": "Hanan",
+      "body": "The world is constantly evolving, and keeping up with all the technological advancements can be quite a task. Fortunately, we’ve got you covered with this comprehensive list of 12 new technologies in the automobile industry that are changing the way the world drives!\n\nFrom self-driving cars to augmented reality dashboards, the latest car technologies are nothing short of groundbreaking. These innovations are not only making our lives easier but are also making driving safer and more enjoyable. While some of the new car technology might seem like science fiction, it’s worth noting that many of these advancements are already on the market and making a real difference in our lives.\n\nSo join us as we explore the ins and outs of each innovation and see how they’re transforming the way we drive. ",
+      "currentDate": "26 July 2023",
+      "id": 6
+    }
+  ]
+}
