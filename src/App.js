@@ -15,7 +15,7 @@ function App() {
           <ScrollToTop />
           <Routes>
             <Route path="*" element={<NotFound />}></Route>
-            <Route path="/blogy-blog-app" element={<Home />}></Route>
+            <Route path="/blogy-blog-app/" element={<Home />}></Route>
             <Route path="/create" element={<Create />}></Route>
             <Route path="/blog/:id" element={<BlogDetails />}></Route>
           </Routes>
